@@ -167,7 +167,7 @@ Example:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key
-GROQ_API_KEY=your_groq_api_key
+
 ```
 
 Only configure the API keys required by the specific project. Never commit your real API keys or secrets to GitHub.
