@@ -1,0 +1,22 @@
+# Python virtual environment
+data/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
